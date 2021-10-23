@@ -1,17 +1,17 @@
     <?php
 
-		$short_name = 'Swiftic Communications';
-		$domain = 'swiftic.co.ke';
-		$name = 'Swiftic Communications Limited';
+		$short_name = 'Comms';
+		$domain = 'sample-domain.com';
+		$name = 'Communications Limited';
 
 		$motto = 'We strive to be a leader in the telecommunication industry by providing enhanced
          services, relationship and profitability. ';
 
-		$phone_no = '0721552369/0723780181';
-		$email = 'inquiry@swiftic.co.ke';
+		$phone_no = '0721XXXXXX/0721XXXXXX';
+		$email = 'inquiry@sample-domain.com';
 
 		$location = 'Nairobi, Kenya';
-		$po_box = 'P.O Box 70450 - 00400';
+		$po_box = 'P.O Box 0000 - 0000';
 
 
 		$facebook = '';
